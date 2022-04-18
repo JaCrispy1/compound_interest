@@ -1,6 +1,5 @@
 # Coding Challenge 1, compound_interest_np03cs4s210070.py
-# Name:Gaurav Thapaliya
-# Student No:2059614
+
 
 # Compound Interest Calculator
 
